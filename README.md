@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Turn the AI chat you already use into real work on your computer.
+  Turn ChatGPT, Claude, Grok & Qwen into real agents on your computer.
 </p>
 
 <p align="center">
@@ -23,13 +23,13 @@
 </p>
 
 <p align="center">
-  <a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readmestart?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readme"><img alt="Start 3-day free trial" src="https://img.shields.io/badge/START%203--DAY%20FREE%20TRIAL-111111?style=for-the-badge"></a>
+  <a href="https://agent.sidra-ai.com/start?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readme"><img alt="Start 3-day free trial" src="https://img.shields.io/badge/START%203--DAY%20FREE%20TRIAL-111111?style=for-the-badge"></a>
   <a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readme"><img alt="Explore SIDRA OS" src="https://img.shields.io/badge/EXPLORE%20SIDRA%20OS-4b5563?style=for-the-badge"></a>
   <a href="https://youtu.be/Af_HYzlIH_o"><img alt="Watch demo" src="https://img.shields.io/badge/WATCH%20DEMO-cc0000?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readmedocs/quickstart">Quick Start</a> ·
+  <a href="https://agent.sidra-ai.com/docs/quickstart?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readme">Quick Start</a> ·
   <a href="https://github.com/sidra-ai-development/scode">SCODE — Free & Open Source</a> ·
   <a href="mailto:support@sidra-ai.com">support@sidra-ai.com</a>
 </p>
@@ -364,7 +364,7 @@ Billed monthly · cancel anytime · third-party AI subscriptions are separate.
 Current checkout offers a **3-day trial once per eligible email**.
 
 <p align="center">
-  <a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readmestart?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readme"><strong>GET SIDRA OS →</strong></a>
+  <a href="https://agent.sidra-ai.com/start?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readme"><strong>GET SIDRA OS →</strong></a>
 </p>
 
 <p align="center"><strong>Keep the AI you already use.<br/>Stop buying another tool just to give it hands.</strong></p>
