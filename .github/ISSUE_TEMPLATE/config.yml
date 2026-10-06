@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/sidra-ai-development/unlimited-coding/discussions
+    about: Ask questions, share workflows, and discuss ideas with the community.
+  - name: Private support
+    url: https://agent.sidra-ai.com/
+    about: For account, subscription, or private support, use the contact information on the SIDRA website.
