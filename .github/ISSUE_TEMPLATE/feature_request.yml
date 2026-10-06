@@ -1,0 +1,26 @@
+name: Feature request
+description: Suggest an improvement for SIDRA OS
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Describe the workflow or friction first.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like SIDRA to do?
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: How do you handle this today?
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
