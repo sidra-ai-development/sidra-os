@@ -1,30 +1,61 @@
 <p align="center">
-  <img src="assets/sidra-logo.png" width="90" alt="SIDRA logo" />
+  <img src="assets/sidra-logo.png" width="96" alt="SIDRA logo" />
 </p>
 
-<h1 align="center">SIDRA OS — Turn Your Chat Into a Real Agent</h1>
+<h1 align="center">SIDRA OS</h1>
 
 <p align="center">
-  <strong>AI computer execution layer powered by the free & open-source SCODE runtime.</strong>
-</p>
-
-<p align="center">
-  macOS + Windows · SIDRA OS 3.0.0 Stable
+  <strong>CHAT IS THE BRAIN. SIDRA IS THE HANDS.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sidra-ai-development/scode"><img alt="SCODE — Free & Open Source" src="https://img.shields.io/badge/SCODE-Free%20%26%20Open%20Source-2ea44f?style=for-the-badge"></a>
-  <img alt="SIDRA OS — Commercial Runtime" src="https://img.shields.io/badge/SIDRA%20OS-Commercial%20Runtime-111827?style=for-the-badge">
+  Turn the AI chat you already use into real work on your computer.
 </p>
 
 <p align="center">
-  <a href="https://agent.sidra-ai.com/start"><strong>Get SIDRA OS</strong></a> ·
-  <a href="https://agent.sidra-ai.com/">Product</a> ·
-  <a href="https://sidra-ai.com/docs/quickstart">Docs</a> ·
-  <a href="https://github.com/sidra-ai-development/scode">Open-Source SCODE</a>
+  ChatGPT · Claude · Grok · Copilot · Qwen · other supported AI clients
 </p>
 
-> **SIDRA OS is commercial proprietary software.** This repository is its public product showcase. The persistent coding runtime used alongside SIDRA OS, **SCODE**, is free and open source: [github.com/mohamedfrahat32-cmd/scode](https://github.com/sidra-ai-development/scode).
+<p align="center">
+  <img alt="macOS + Windows" src="https://img.shields.io/badge/macOS%20%2B%20Windows-supported-111827?style=for-the-badge">
+  <img alt="3-day free trial" src="https://img.shields.io/badge/3--day-free%20trial-2563eb?style=for-the-badge">
+  <img alt="$20/month" src="https://img.shields.io/badge/%2420%2Fmonth-after%20trial-111827?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://agent.sidra-ai.com/start"><img alt="Start 3-day free trial" src="https://img.shields.io/badge/START%203--DAY%20FREE%20TRIAL-111111?style=for-the-badge"></a>
+  <a href="https://agent.sidra-ai.com/"><img alt="Explore SIDRA OS" src="https://img.shields.io/badge/EXPLORE%20SIDRA%20OS-4b5563?style=for-the-badge"></a>
+  <a href="https://youtu.be/Af_HYzlIH_o"><img alt="Watch demo" src="https://img.shields.io/badge/WATCH%20DEMO-cc0000?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <a href="https://agent.sidra-ai.com/docs/quickstart">Quick Start</a> ·
+  <a href="https://github.com/sidra-ai-development/scode">SCODE — Free & Open Source</a> ·
+  <a href="mailto:support@sidra-ai.com">support@sidra-ai.com</a>
+</p>
+
+> **SIDRA OS is commercial proprietary software.** This repository is its public product showcase. **SCODE**, the persistent coding runtime that can be used alongside SIDRA OS, is free and open source: [github.com/sidra-ai-development/scode](https://github.com/sidra-ai-development/scode).
+
+## What SIDRA gives your AI chat
+
+| Execution | Continuity |
+| --- | --- |
+| **Files & workspace** — inspect, create, edit, and organize real project files. | **SIDRA Brain** — carry useful project decisions, constraints, goals, and handoffs forward. |
+| **Terminal & commands** — run real development and system workflows on the authorized device. | **Persistent coding** — use SCODE for longer execution-heavy coding missions. |
+| **Browser & apps** — operate supported browser and desktop workflows when the task requires it. | **Orchestration** — let one supported AI coordinate other coding tools and agents. |
+| **Verification** — inspect results instead of stopping at generated instructions. | **Owner control** — execution stays bound to the computer and authority you provide. |
+
+```mermaid
+flowchart LR
+    YOU["You"] --> CHAT["Your AI Chat"]
+    CHAT --> SIDRA["SIDRA OS"]
+    SIDRA --> DEVICE["Authorized Mac / Windows PC"]
+    SIDRA --> BRAIN["SIDRA Brain"]
+    SIDRA --> TOOLS["Files · Terminal · Browser · Apps"]
+    SIDRA --> SCODE["SCODE"]
+```
+
+<p align="center"><strong>You keep your AI interface. SIDRA gives it a path to act.</strong></p>
 
 ---
 
@@ -240,7 +271,7 @@ SCODE is **free and open source**.
 **Source:** https://github.com/sidra-ai-development/scode
 
 <a href="https://github.com/sidra-ai-development/scode"><strong>View SCODE on GitHub →</strong></a> ·
-<a href="https://sidra-ai.com/scode"><strong>SCODE Website →</strong></a>
+<a href="https://agent.sidra-ai.com/scode"><strong>SCODE Website →</strong></a>
 
 ---
 
@@ -254,7 +285,7 @@ You don't have to be sitting at the desk to start the conversation.
 WhatsApp → SIDRA → AI + Your Computer → Verified Result → WhatsApp
 ```
 
-<a href="https://sidra-ai.com/docs/whatsapp"><strong>See WhatsApp setup →</strong></a>
+<a href="https://agent.sidra-ai.com/docs/whatsapp"><strong>See WhatsApp setup →</strong></a>
 
 ---
 
