@@ -13,18 +13,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mohamedfrahat32-cmd/scode"><img alt="SCODE — Free & Open Source" src="https://img.shields.io/badge/SCODE-Free%20%26%20Open%20Source-2ea44f?style=for-the-badge"></a>
+  <a href="https://github.com/sidra-ai-development/scode"><img alt="SCODE — Free & Open Source" src="https://img.shields.io/badge/SCODE-Free%20%26%20Open%20Source-2ea44f?style=for-the-badge"></a>
   <img alt="SIDRA OS — Commercial Runtime" src="https://img.shields.io/badge/SIDRA%20OS-Commercial%20Runtime-111827?style=for-the-badge">
 </p>
 
 <p align="center">
-  <a href="https://sidra-ai.com/start"><strong>Get SIDRA OS</strong></a> ·
-  <a href="https://sidra-ai.com/sidra-os">Product</a> ·
+  <a href="https://agent.sidra-ai.com/start"><strong>Get SIDRA OS</strong></a> ·
+  <a href="https://agent.sidra-ai.com/">Product</a> ·
   <a href="https://sidra-ai.com/docs/quickstart">Docs</a> ·
-  <a href="https://github.com/mohamedfrahat32-cmd/scode">Open-Source SCODE</a>
+  <a href="https://github.com/sidra-ai-development/scode">Open-Source SCODE</a>
 </p>
 
-> **SIDRA OS is commercial proprietary software.** This repository is its public product showcase. The persistent coding runtime used alongside SIDRA OS, **SCODE**, is free and open source: [github.com/mohamedfrahat32-cmd/scode](https://github.com/mohamedfrahat32-cmd/scode).
+> **SIDRA OS is commercial proprietary software.** This repository is its public product showcase. The persistent coding runtime used alongside SIDRA OS, **SCODE**, is free and open source: [github.com/mohamedfrahat32-cmd/scode](https://github.com/sidra-ai-development/scode).
 
 ---
 
@@ -237,9 +237,9 @@ AI Chat → SCODE → SIDRA OS → Real Work
 
 SCODE is **free and open source**.
 
-**Source:** https://github.com/mohamedfrahat32-cmd/scode
+**Source:** https://github.com/sidra-ai-development/scode
 
-<a href="https://github.com/mohamedfrahat32-cmd/scode"><strong>View SCODE on GitHub →</strong></a> ·
+<a href="https://github.com/sidra-ai-development/scode"><strong>View SCODE on GitHub →</strong></a> ·
 <a href="https://sidra-ai.com/scode"><strong>SCODE Website →</strong></a>
 
 ---
@@ -333,7 +333,7 @@ Billed monthly · cancel anytime · third-party AI subscriptions are separate.
 Current checkout offers a **3-day trial once per eligible email**.
 
 <p align="center">
-  <a href="https://sidra-ai.com/start"><strong>GET SIDRA OS →</strong></a>
+  <a href="https://agent.sidra-ai.com/start"><strong>GET SIDRA OS →</strong></a>
 </p>
 
 <p align="center"><strong>Keep the AI you already use.<br/>Stop buying another tool just to give it hands.</strong></p>
