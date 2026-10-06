@@ -23,13 +23,13 @@
 </p>
 
 <p align="center">
-  <a href="https://agent.sidra-ai.com/start"><img alt="Start 3-day free trial" src="https://img.shields.io/badge/START%203--DAY%20FREE%20TRIAL-111111?style=for-the-badge"></a>
-  <a href="https://agent.sidra-ai.com/"><img alt="Explore SIDRA OS" src="https://img.shields.io/badge/EXPLORE%20SIDRA%20OS-4b5563?style=for-the-badge"></a>
+  <a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readmestart?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readme"><img alt="Start 3-day free trial" src="https://img.shields.io/badge/START%203--DAY%20FREE%20TRIAL-111111?style=for-the-badge"></a>
+  <a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readme"><img alt="Explore SIDRA OS" src="https://img.shields.io/badge/EXPLORE%20SIDRA%20OS-4b5563?style=for-the-badge"></a>
   <a href="https://youtu.be/Af_HYzlIH_o"><img alt="Watch demo" src="https://img.shields.io/badge/WATCH%20DEMO-cc0000?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <a href="https://agent.sidra-ai.com/docs/quickstart">Quick Start</a> ·
+  <a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readmedocs/quickstart">Quick Start</a> ·
   <a href="https://github.com/sidra-ai-development/scode">SCODE — Free & Open Source</a> ·
   <a href="mailto:support@sidra-ai.com">support@sidra-ai.com</a>
 </p>
@@ -271,7 +271,7 @@ SCODE is **free and open source**.
 **Source:** https://github.com/sidra-ai-development/scode
 
 <a href="https://github.com/sidra-ai-development/scode"><strong>View SCODE on GitHub →</strong></a> ·
-<a href="https://agent.sidra-ai.com/scode"><strong>SCODE Website →</strong></a>
+<a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readmescode"><strong>SCODE Website →</strong></a>
 
 ---
 
@@ -285,7 +285,7 @@ You don't have to be sitting at the desk to start the conversation.
 WhatsApp → SIDRA → AI + Your Computer → Verified Result → WhatsApp
 ```
 
-<a href="https://agent.sidra-ai.com/docs/whatsapp"><strong>See WhatsApp setup →</strong></a>
+<a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readmedocs/whatsapp"><strong>See WhatsApp setup →</strong></a>
 
 ---
 
@@ -364,7 +364,7 @@ Billed monthly · cancel anytime · third-party AI subscriptions are separate.
 Current checkout offers a **3-day trial once per eligible email**.
 
 <p align="center">
-  <a href="https://agent.sidra-ai.com/start"><strong>GET SIDRA OS →</strong></a>
+  <a href="https://agent.sidra-ai.com/?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readmestart?utm_source=github&utm_medium=organic&utm_campaign=sidra_os&utm_content=flagship_readme"><strong>GET SIDRA OS →</strong></a>
 </p>
 
 <p align="center"><strong>Keep the AI you already use.<br/>Stop buying another tool just to give it hands.</strong></p>
